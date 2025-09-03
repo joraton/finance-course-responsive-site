@@ -254,7 +254,7 @@ export default function Section2Page() {
                 <ul className="ml-4 space-y-1">
                   <li><strong>{"Spin-off"}</strong> = Distribution des actions aux actionnaires</li>
                   <li><strong>{"Split-up"}</strong> = Dissolution complète de la société mère</li>
-                  <li><strong>{"Split-off"}</strong> = Échange d'actions (OPRA)</li>
+                  <li><strong>{"Split-off"}</strong> = Échange d&apos;actions (OPRA)</li>
                 </ul>
                 <p><strong>{"Décote du conglomérat"}</strong> : Plus d&apos;activités = Plus de décote</p>
               </div>
