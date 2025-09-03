@@ -290,7 +290,7 @@ const ScissionSchema: React.FC = () => {
       {/* Ligne de séparation */}
       <line x1="0" y1="200" x2="800" y2="200" stroke="#666" strokeWidth="1" strokeDasharray="5,5" />
       <text x="400" y="190" textAnchor="middle" className="text-sm font-semibold" fill="#666">
-        APRÈS SPLIT-OFF DE L'ACTIVITÉ Y
+        APRÈS SPLIT-OFF DE L&apos;ACTIVITÉ Y
       </text>
 
       {/* Groupe 1 après */}
@@ -425,7 +425,7 @@ const ScissionSchema: React.FC = () => {
             <h5 className="font-semibold text-blue-600 mb-2">Spin-off</h5>
             <ul className="text-gray-600 space-y-1">
               <li>• Société mère conservée</li>
-              <li>• Distribution gratuite d'actions</li>
+              <li>• Distribution gratuite d&apos;actions</li>
               <li>• Tous gardent les 2 entités</li>
               <li>• Élimination décote conglomérat</li>
             </ul>
@@ -442,7 +442,7 @@ const ScissionSchema: React.FC = () => {
           <div className="bg-white p-3 rounded border">
             <h5 className="font-semibold text-orange-600 mb-2">Split-off</h5>
             <ul className="text-gray-600 space-y-1">
-              <li>• Offre publique d'échange</li>
+              <li>• Offre publique d&apos;échange</li>
               <li>• Choix des actionnaires</li>
               <li>• Spécialisation par préférence</li>
               <li>• Sortie sans vente sur marché</li>

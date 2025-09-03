@@ -49,7 +49,7 @@ export default function Section2Page() {
               </h3>
               <div className="space-y-3 text-amber-800">
                 <p><strong>{"1. Porte toujours sur une branche d'activité"}</strong> (jamais sur un élément isolé)</p>
-                <p><strong>{"2. Les actionnaires de la société mère deviennent directement actionnaires de la société bénéficiaire"}</strong> (contrairement à l'apport partiel où c'est la société qui devient actionnaire)</p>
+                <p><strong>{"2. Les actionnaires de la société mère deviennent directement actionnaires de la société bénéficiaire"}</strong> (contrairement à l&apos;apport partiel où c&apos;est la société qui devient actionnaire)</p>
               </div>
             </div>
             
@@ -256,7 +256,7 @@ export default function Section2Page() {
                   <li><strong>{"Split-up"}</strong> = Dissolution complète de la société mère</li>
                   <li><strong>{"Split-off"}</strong> = Échange d'actions (OPRA)</li>
                 </ul>
-                <p><strong>{"Décote du conglomérat"}</strong> : Plus d'activités = Plus de décote</p>
+                <p><strong>{"Décote du conglomérat"}</strong> : Plus d&apos;activités = Plus de décote</p>
               </div>
             </div>
           </div>

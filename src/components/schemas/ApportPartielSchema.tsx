@@ -4,7 +4,7 @@ const ApportPartielSchema: React.FC = () => {
   return (
     <div className="w-full max-w-4xl mx-auto p-2 sm:p-4">
       <h3 className="text-base sm:text-lg font-semibold text-center mb-3 sm:mb-4 text-gray-800">
-        Schéma : Apport partiel d'actif
+        Schéma : Apport partiel d&apos;actif
       </h3>
       <div className="overflow-x-auto">
         <svg
@@ -59,7 +59,7 @@ const ApportPartielSchema: React.FC = () => {
         {/* Ligne de séparation */}
         <line x1="0" y1="200" x2="800" y2="200" stroke="#666" strokeWidth="1" strokeDasharray="5,5" />
         <text x="400" y="190" textAnchor="middle" className="text-sm font-semibold" fill="#666">
-          APRÈS L'OPÉRATION
+          APRÈS L&apos;OPÉRATION
         </text>
 
         {/* Société Apporteuse (après) */}
@@ -123,7 +123,7 @@ const ApportPartielSchema: React.FC = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-4">
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 sm:w-4 sm:h-4 bg-orange-500 rounded flex-shrink-0"></div>
-            <span className="leading-tight">Apport de la branche d'activité</span>
+            <span className="leading-tight">Apport de la branche d&apos;activité</span>
           </div>
           <div className="flex items-center gap-2">
             <div className="w-3 h-3 sm:w-4 sm:h-4 bg-green-500 rounded flex-shrink-0"></div>
